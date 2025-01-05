@@ -1,6 +1,8 @@
 # Gooncast Asset Repository
 Assets for the Gooncast
 
+Below is a list of added resources and details
+
 ## Fonts
 Main font (Gooncast logo, titles etc.) - [LC Mogi](https://fontesk.com/lc-mogi-font/)  
 Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com/fonts/general-sans)
