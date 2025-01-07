@@ -1,5 +1,5 @@
 # Gooncast Asset Repository
-Assets for the Gooncast
+This repository contains assets for the Gooncast to maintain consistency. If you are a Gooncast member and want to stream the Gooncast yourself, use some of the assets in this repository along with the fonts and colours (listed below) 
 
 Below is a list of added resources and details
 
@@ -9,11 +9,16 @@ Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com
 
 ## Colours
 ### Main palette
-`ffffff` White  
-`000000` Black  
-`ff20a2` Persian Rose  
-`15dad8` Bright Turquoise  
-`ff3305` Scarlet  
+| Filename code* | Name      | Hex code |
+|----------------|-----------|----------|
+| w              | White     | `ffffff` |
+| b              | Black     | `000000` |
+| p              | Pink      | `ff20a2` |
+| t              | Turquoise | `15dad8` |
+| r              | Red       | `ff3305` |
+
 ### Alternate colours (use to diversify from the main palette)
-`ffb829` Marigold Yellow  
-`0ac800` Green
+| Filename code* | Name      | Hex code |
+|----------------|-----------|----------|
+| y              | Yellow    | `ffb829` |
+| g              | Green     | `0ac800` |
