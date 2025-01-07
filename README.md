@@ -1,5 +1,6 @@
 # Gooncast Asset Repository
-This repository contains assets for the Gooncast to maintain consistency. If you are a Gooncast member and want to stream the Gooncast yourself, use some of the assets in this repository along with the fonts and colours (listed below) 
+This repository contains assets for the Gooncast to maintain consistency. If you are a Gooncast member and want to stream the Gooncast yourself, use some of the assets in this repository along with the fonts and colours (listed below).  
+To download the entire repository, click **the green Code button** and click **Download ZIP**.
 
 ## Index
 * [Logos](logos)
