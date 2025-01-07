@@ -25,6 +25,8 @@ Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com
 | t              | Turquoise | `15dad8` |
 | r              | Red       | `ff3305` |
 
+**Note:** Please don't use red adjacent to pink, it looks like trash. Thanks!
+
 ### Alternate colours (use to diversify from the main palette)
 | Filename code* | Name      | Hex code |
 |----------------|-----------|----------|
