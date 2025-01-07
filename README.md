@@ -1,6 +1,12 @@
 # Gooncast Asset Repository
 This repository contains assets for the Gooncast to maintain consistency. If you are a Gooncast member and want to stream the Gooncast yourself, use some of the assets in this repository along with the fonts and colours (listed below) 
 
+## Index
+* [Logos](logos)
+* [Patterns](patterns)
+  * [Diagonal lines](patterns/diagonal)
+  * [Chequers](patterns/chequer)
+
 ## Fonts
 Main font (Gooncast logo, titles etc.) - [LC Mogi](https://fontesk.com/lc-mogi-font/)
 * Preferably use this font in **ALL CAPS**
