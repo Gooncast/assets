@@ -3,7 +3,8 @@ This repository contains assets for the Gooncast to maintain consistency. If you
 
 ## Fonts
 Main font (Gooncast logo, titles etc.) - [LC Mogi](https://fontesk.com/lc-mogi-font/)
-* Preferably use this font in **ALL CAPS**  
+* Preferably use this font in **ALL CAPS**
+
 Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com/fonts/general-sans)
 * Preferably use this font in **Title Case** or **Sentence case**
 
