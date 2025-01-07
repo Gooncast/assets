@@ -23,9 +23,9 @@ Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com
 | b              | Black     | `000000` |
 | p              | Pink      | `ff20a2` |
 | t              | Turquoise | `15dad8` |
-| r              | Red       | `ff3305` |
+| o              | Orange    | `ff3305` |
 
-**Note:** Please don't use red adjacent to pink, it looks like trash. Thanks!
+**Note:** Please don't use orange adjacent to pink, it looks like trash. Thanks!
 
 ### Alternate colours (use to diversify from the main palette)
 | Filename code* | Name      | Hex code |
