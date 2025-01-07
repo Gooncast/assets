@@ -22,3 +22,5 @@ Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com
 |----------------|-----------|----------|
 | y              | Yellow    | `ffb829` |
 | g              | Green     | `0ac800` |
+
+\* The filename code is the letter used in the filenames for the assets to represent the colour. If two colours are used in an asset, the background colour will come first, followed by the foreground colour.
