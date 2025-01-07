@@ -4,7 +4,7 @@ To download the entire repository, click **the green Code button** and click **D
 
 ## Index
 * [Logos](logos)
-* [Patterns](patterns)
+* [Tileable patterns](patterns)
   * [Diagonal lines](patterns/diagonal)
   * [Chequers](patterns/chequer)
 
