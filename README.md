@@ -17,20 +17,20 @@ Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com
 
 ## Colours
 ### Main palette
-| Filename code* | Name      | Hex code |
-|----------------|-----------|----------|
-| w              | White     | `ffffff` |
-| b              | Black     | `000000` |
-| p              | Pink      | `ff20a2` |
-| t              | Turquoise | `15dad8` |
-| o              | Orange    | `ff3305` |
+| Filename code* | Name      | Hex code | Preview                                                                                             |
+|----------------|-----------|----------|-----------------------------------------------------------------------------------------------------|
+| w              | White     | `ffffff` | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/FFFFFF?style=circle'/>     |
+| b              | Black     | `000000` | <img valign='middle' alt='black' src='https://readme-swatches.vercel.app/000000?style=circle'/>     |
+| p              | Pink      | `ff20a2` | <img valign='middle' alt='pink' src='https://readme-swatches.vercel.app/FF2082?style=circle'/>      |
+| t              | Turquoise | `15dad8` | <img valign='middle' alt='turquoise' src='https://readme-swatches.vercel.app/15DAD8?style=circle'/> |
+| o              | Orange    | `ff3305` | <img valign='middle' alt='orange' src='https://readme-swatches.vercel.app/FF3305?style=circle'/>    |
 
 **Note:** Please don't use orange adjacent to pink, it looks like trash. Thanks!
 
 ### Alternate colours (use to diversify from the main palette)
-| Filename code* | Name      | Hex code |
-|----------------|-----------|----------|
-| y              | Yellow    | `ffb829` |
-| g              | Green     | `0ac800` |
+| Filename code* | Name      | Hex code | Preview                                                                                             |
+|----------------|-----------|----------|-----------------------------------------------------------------------------------------------------|
+| y              | Yellow    | `ffb829` | <img valign='middle' alt='yellow' src='https://readme-swatches.vercel.app/FFB829?style=circle'/>    |
+| g              | Green     | `0ac800` | <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/0AC800?style=circle'/>     |
 
 \* The filename code is the letter used in the filenames for the assets to represent the colour. If two colours are used in an asset, the background colour will come first, followed by the foreground colour.
