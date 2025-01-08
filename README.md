@@ -19,8 +19,8 @@ Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com
 ### Main palette
 | Filename code* | Name      | Hex code | Preview                                                                                             |
 |----------------|-----------|----------|-----------------------------------------------------------------------------------------------------|
-| w              | White     | `ffffff` | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/FFFFFF?style=circle'/>     |
 | b              | Black     | `000000` | <img valign='middle' alt='black' src='https://readme-swatches.vercel.app/000000?style=circle'/>     |
+| w              | White     | `ffffff` | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/FFFFFF?style=circle'/>     |
 | p              | Pink      | `ff20a2` | <img valign='middle' alt='pink' src='https://readme-swatches.vercel.app/FF2082?style=circle'/>      |
 | t              | Turquoise | `15dad8` | <img valign='middle' alt='turquoise' src='https://readme-swatches.vercel.app/15DAD8?style=circle'/> |
 | o              | Orange    | `ff3305` | <img valign='middle' alt='orange' src='https://readme-swatches.vercel.app/FF3305?style=circle'/>    |
