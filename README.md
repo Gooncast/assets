@@ -13,7 +13,7 @@ Main font (Gooncast logo, titles etc.) - [LC Mogi](https://fontesk.com/lc-mogi-f
 * Preferably use this font in **ALL CAPS**
 
 Secondary font (everything else) - [General Sans Bold](https://www.fontshare.com/fonts/general-sans)
-* Preferably use this font in **Title Case** or **Sentence case**
+* Preferably use this font in **lower case** or **Sentence case**
 
 ## Colours
 ### Main palette
