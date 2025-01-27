@@ -8,7 +8,7 @@ To download the entire repository, click **the green Code button** and then **Do
   * [Diagonal lines](patterns/diagonal)
   * [Chequers](patterns/chequer)
 
-## Fonts
+## Fonts (not included in the repository - click the links to download these)
 Main font (Gooncast logo, titles etc.) - [LC Mogi](https://fontesk.com/lc-mogi-font/)
 * Preferably use this font in **ALL CAPS**
 
